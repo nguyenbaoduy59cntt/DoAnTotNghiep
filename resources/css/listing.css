@@ -1,0 +1,23 @@
+/* Pagination */
+
+
+.filter-form{
+    padding: 20px;
+    background-color: #FFF;
+}
+
+.filter-form label{
+    font-weight: bold ;
+    color: #000;
+}
+.filter-item{
+    display: inline-block;
+}
+.sort-icon{
+    float: right;
+}
+
+#btnSearch{
+    float: right;
+}
+/* End Pagination */
